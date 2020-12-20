@@ -10,7 +10,7 @@ def start_game(): # 게임 시작과 동시에 4x4 행렬 생성한다.
     add_new_2(mat) 
     return mat
 
-def add_new_2(mat): # 새로운 2를 생성한다.
+def add_new_2(mat): # 새로운 2를 생성한다. 
 
     r = random.randint(0, 3) 
     c = random.randint(0, 3) 

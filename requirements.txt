@@ -3,7 +3,7 @@ pygame==2.0.0
 pynput==1.7.1
 pyobjc-core==7.0.1
 pyobjc-framework-Cocoa==7.0.1
-pyobjc-framework-Quartz==7.0.1
+pyobjc-framework-Quartz==7.0.1 
 pytz==2020.4
 six==1.15.0
 sqlparse==0.4.1

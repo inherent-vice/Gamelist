@@ -5,7 +5,7 @@ from random import randint
 import pygame
 from pygame.locals import QUIT, KEYDOWN, K_LEFT, K_RIGHT, K_DOWN, K_SPACE
 
-#7개의 블록 종류별로 회전하는 경우까지 모두 표현
+#7개의 블록 종류별로 회전하는 경우까지 모두 표현 
 BLOCK_DATA = (
     (
         (0,0,1, 1,1,1, 0,0,0),

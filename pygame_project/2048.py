@@ -1,6 +1,6 @@
 # geeksforgeeks 2048 참고
 import logic # 로직을 불러온다
-import time # 시간 모듈
+import time # 시간 모듈 
 from pprint import pprint # 행렬을 시각화 하기위한 모듈
 from pynput import keyboard # 키입력을 실시간으로 받는 모듈
 
